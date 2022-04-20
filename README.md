@@ -6,9 +6,8 @@ This program prints 'Hello World!' to the terminal.
 
 This is just to test out VS Code and github.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/shorts/Aat0s-RagjE)
 
 # Development Environment
 
