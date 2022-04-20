@@ -20,3 +20,4 @@ This is just to test out VS Code and github.
 # Useful Websites
 
 * [Visual Studio Documentation](https://code.visualstudio.com/docs/editor/versioncontrol)
+* [youtube upload help](https://support.google.com/youtube/answer/57407)
